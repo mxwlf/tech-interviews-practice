@@ -1,0 +1,12 @@
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/bin/Debug/net5.0/code.deps.json
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/bin/Debug/net5.0/code.dll
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/bin/Debug/net5.0/ref/code.dll
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/bin/Debug/net5.0/code.pdb
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.csprojAssemblyReference.cache
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.AssemblyInfoInputs.cache
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.AssemblyInfo.cs
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.csproj.CoreCompileInputs.cache
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.dll
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/ref/code.dll
+/home/wolf/code/tech-interviews-practice/leetcode/cs/21-04-27-power-of-three/code/obj/Debug/net5.0/code.pdb
